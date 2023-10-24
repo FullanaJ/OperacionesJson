@@ -1,0 +1,33 @@
+{
+  "books" : [ {
+    "title" : "The Lord of the Rings",
+    "author" : "J.R.R. Tolkien",
+    "yearPublished" : 1954,
+    "numPages" : 1178,
+    "genre" : "Fantasy"
+  }, {
+    "title" : "The Hobbit",
+    "author" : "J.R.R. Tolkien",
+    "yearPublished" : 1937,
+    "numPages" : 310,
+    "genre" : "Fantasy"
+  }, {
+    "title" : "Harry Potter and the Philosopher's Stone",
+    "author" : "J.K. Rowling",
+    "yearPublished" : 1997,
+    "numPages" : 223,
+    "genre" : "Fantasy"
+  }, {
+    "title" : "Harry Potter and the Chamber of Secrets",
+    "author" : "J.K. Rowling",
+    "yearPublished" : 1998,
+    "numPages" : 251,
+    "genre" : "Fantasy"
+  }, {
+    "title" : "Harry Potter and the Prisoner of Azkaban",
+    "author" : "J.K. Rowling",
+    "yearPublished" : 1999,
+    "numPages" : 317,
+    "genre" : "Fantasy"
+  } ]
+}
